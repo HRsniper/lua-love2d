@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "sumneko.lua",
+        "docker.docker",
+        "ms-vscode-remote.remote-containers",
+        "pixelbyte-studios.pixelbyte-love2d"
+    ]
+}

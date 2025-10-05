@@ -1,0 +1,6 @@
+services:
+  lua:
+    container_name: lua
+    build: .
+    volumes:
+      - .:/app

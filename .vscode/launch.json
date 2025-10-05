@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Executar lovec",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "cd ..; lovec \"$(Split-Path -Leaf '${fileDirname}')\"",
+            "cwd": "${fileDirname}"
+        }
+    ]
+}

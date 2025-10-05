@@ -1,0 +1,38 @@
+guardiao_das_ruinas/
+├── main.lua
+├── libs/
+│   ├── sti/
+│   ├── windfield/
+│   ├── hump/
+│   │   ├── camera.lua
+│   │   ├── gamestate.lua
+│   ├── anim8.lua
+│   └── middleclass.lua
+├── classes/
+│   ├── Player.lua
+│   ├── Enemy.lua
+│   ├── Map.lua
+│   ├── Camera.lua
+│   ├── HUD.lua
+│   └── Artifact.lua
+├── states/
+│   ├── State.lua
+│   ├── menu.lua
+│   ├── jogo.lua
+│   └── fim.lua
+├── assets/
+│   ├── mapas/
+│   │   └── ruinas.lua
+│   ├── sprites/
+│   │   ├── player_run.png
+│   │   ├── enemy_walk.png
+│   │   └── artifact.png
+│   ├── fonts/
+│   │   └── mystic.ttf
+│   ├── music/
+│   │   ├── menu.mp3
+│   │   ├── gameplay.mp3
+│   │   └── end.mp3
+│   └── sounds/
+│       ├── collect.wav
+│       └── hit.wav

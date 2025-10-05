@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="10" height="8" tilewidth="128" tileheight="128" infinite="0" nextlayerid="3" nextobjectid="12">
+ <editorsettings>
+  <export target="ruinas.lua" format="lua"/>
+ </editorsettings>
+ <tileset firstgid="1" name="tileset" tilewidth="128" tileheight="128" tilecount="128" columns="8">
+  <image source="../sprites/tileset.png" width="1024" height="2048"/>
+ </tileset>
+ <layer id="1" name="chao" width="10" height="8">
+  <data encoding="csv">
+36,36,36,36,36,36,36,36,36,36,
+36,36,36,36,36,36,36,36,36,36,
+36,36,36,36,36,36,36,36,36,36,
+36,36,36,36,36,36,36,36,36,36,
+36,36,36,36,36,36,36,17,17,17,
+36,36,36,36,36,36,25,2,2,2,
+36,36,36,36,36,25,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2
+</data>
+ </layer>
+ <objectgroup id="2" name="colisao" visible="0">
+  <object id="2" x="0" y="896" width="1280" height="128"/>
+  <object id="3" x="1280" y="0" width="128" height="1024"/>
+  <object id="4" x="-128" y="0" width="128" height="1024"/>
+  <object id="5" x="-128" y="-128" width="1536" height="128"/>
+  <object id="7" x="896" y="512" width="384" height="384"/>
+  <object id="11" x="640" y="640" width="256" height="256"/>
+ </objectgroup>
+</map>

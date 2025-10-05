@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80 80 240 190" preserveAspectRatio="xMidYMid meet">
+<line x1="100" y1="100" x2="200" y2="150" stroke="black" stroke-width="2" />
+<line x1="200" y1="150" x2="150" y2="250" stroke="black" stroke-width="2" />
+<line x1="200" y1="150" x2="300" y2="100" stroke="black" stroke-width="2" />
+<circle cx="100" cy="100" r="12" fill="red" stroke="black" stroke-width="2"/>
+<text x="96" y="104" font-size="12" fill="white">A</text>
+<circle cx="200" cy="150" r="12" fill="blue" stroke="black" stroke-width="2"/>
+<text x="196" y="154" font-size="12" fill="white">B</text>
+<circle cx="150" cy="250" r="12" fill="blue" stroke="black" stroke-width="2"/>
+<text x="146" y="254" font-size="12" fill="white">C</text>
+<circle cx="300" cy="100" r="12" fill="blue" stroke="black" stroke-width="2"/>
+<text x="296" y="104" font-size="12" fill="white">D</text>
+</svg>

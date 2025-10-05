@@ -1,0 +1,8 @@
+{
+    "pixelbyte.love2d.path": "${env:USERPROFILE}\\Desktop\\love-11.5-win64\\love.exe",
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.workspace.library": ["${3rd}/love2d/library"],
+    "Lua.runtime.special": {
+        "love.filesystem.load": "loadfile"
+    }
+}
