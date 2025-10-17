@@ -46,4 +46,4 @@ O curso é totalmente em português, com **exemplos práticos, exercícios e boa
 18. The Library: Mathematical, Operating System, Debug
 19. Gerenciamento de Memória, Desempenho e Otimização
 20. Ferramentas e Bibliotecas
-21. Integração com C (C API) (**ainda nao feito**)
+21. Integração com C (C API)
